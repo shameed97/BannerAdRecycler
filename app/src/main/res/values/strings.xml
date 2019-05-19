@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BannerAdRecycler</string>
+    <string name="banana">Banana</string>
+    <string name="_49_0">49.0</string>
+
+    <string-array name="fruits_name">
+        <item>Apple</item>
+        <item>Pappaya</item>
+        <item>Graps</item>
+        <item>Banana</item>
+        <item>Homogranate</item>
+        <item>Orange</item>
+        <item>Stawberry</item>
+    </string-array>
+    <string-array name="calories_list">
+        <item>49.0</item>
+        <item>45.0</item>
+        <item>39.0</item>
+        <item>93.1</item>
+        <item>56.8</item>
+        <item>67.9</item>
+        <item>96.0</item>
+    </string-array>
+</resources>
